@@ -1,2 +1,2 @@
 # Calculator
-This is a CodeAlpha frontend internship project using HTML, CSS, JavaScript.
+This is a CodeAlpha Fullstack internship project using HTML, CSS, JavaScript.
